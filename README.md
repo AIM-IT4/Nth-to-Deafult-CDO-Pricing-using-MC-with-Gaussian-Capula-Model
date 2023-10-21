@@ -18,6 +18,23 @@ This project aims to price an N-th-to-default Collateralized Debt Obligation (CD
 2. Value at Risk (VaR) and Conditional VaR
 3. Delta and Gamma
 
+Confidence Intervals: The 95% confidence interval for the estimated CDO price is 
+[
+15.42
+,
+15.55
+]
+[15.42,15.55] million.
+
+Value at Risk (VaR) and Conditional VaR: The VaR at a 5% significance level is approximately 9.33 million, and the Conditional VaR is about 7.53 million.
+
+Delta and Gamma: The Delta is approximately 
+−
+10027.71
+−10027.71 and the Gamma is approximately 
+172915506.56
+172915506.56. These values give us an idea of how sensitive the CDO price is to changes in the default probability. Note that these are simple finite difference approximations and might require further refinement for more accurate results.
+
 ## Requirements
 
 - Python 3.x
