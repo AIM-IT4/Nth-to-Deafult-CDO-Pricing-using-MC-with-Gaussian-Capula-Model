@@ -8,6 +8,7 @@ This project aims to price an N-th-to-default Collateralized Debt Obligation (CD
 2. Correlation Heatmap
 3. Sensitivity Analysis
 4. Convergence Plot
+![image](https://github.com/AIM-IT4/pricing-of-an-N-th-to-default-Collateralized-Debt-Obligation-CDO-/assets/77675138/3fce7c09-fbd8-4c1a-8080-06eec07d4b2b)
 
 ## Calculations Included
 
